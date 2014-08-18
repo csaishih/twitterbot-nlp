@@ -1,0 +1,13 @@
+comedy
+crime
+thriller
+adventure
+family
+fantasy
+mystery
+sports
+action
+horror
+romance
+drama
+sci-fi
